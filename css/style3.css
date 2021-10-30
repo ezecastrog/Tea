@@ -1,0 +1,18 @@
+.full-image{
+    background-color: #fff;
+    object-fit: contain;
+    max-height: 100%;
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+    
+}
+.image-container{
+    max-width: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+}
+.image-container a{
+    display: flex;
+    flex-flow: column nowrap;
+}
